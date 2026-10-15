@@ -101,7 +101,7 @@
 
 ### 最简单：把安装任务交给 agent
 
-把下面提示词中的 `你的GitHub用户名` 替换为仓库实际所有者。仓库名默认写为 `physics-lab-report-ouc`；若实际建仓名称不同，也请替换。没有 GitHub 地址时，可以直接从本地文件夹安装。
+本项目仓库为 [Zion-Soliel/physics-lab-report-ouc](https://github.com/Zion-Soliel/physics-lab-report-ouc)。可直接使用下面的提示词，也可从本地文件夹安装。
 
 ```text
 请从 https://github.com/Zion-Soliel/physics-lab-report-ouc 下载物理实验报告 skills。

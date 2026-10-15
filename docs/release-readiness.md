@@ -29,7 +29,7 @@
 
 ## 首次上传时
 
-1. 创建仓库后，将 README 的 `你的GitHub用户名` 替换为实际所有者；如仓库名不同，也同步替换。
+1. 当前目标仓库为 https://github.com/Zion-Soliel/physics-lab-report-ouc ，README 已使用该地址；迁移仓库时同步更新。
 2. 检查待上传清单，仅包含此目录的发布内容，确认未临时混入 input、output、缓存或密钥。
 3. 保留 LICENSE 和 NOTICE；若单独分发某个 skill，也保留其目录内的对应文件。
 4. 可先用新会话安装一个 skill，检查是否识别，阅读来源与相对引用是否正常。
