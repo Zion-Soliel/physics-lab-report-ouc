@@ -1,0 +1,29 @@
+# Personal experiment inputs and generated work (root only).
+/input/
+/data/
+/private/
+/output/
+/tmp/
+/references/
+
+# Local environments, secrets, caches.
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Local agent installation copies; publish the canonical skills/ tree instead.
+/.agents/
+/.claude/
+/.dsh/
+/.codex/
+
+# Locally assembled distribution archives.
+/dist/
